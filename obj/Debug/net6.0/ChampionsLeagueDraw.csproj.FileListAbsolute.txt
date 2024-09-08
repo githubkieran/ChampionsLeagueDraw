@@ -1,0 +1,14 @@
+C:\Users\khali\source\repos\ChampionsLeagueDraw\bin\Debug\net6.0\ChampionsLeagueDraw.exe
+C:\Users\khali\source\repos\ChampionsLeagueDraw\bin\Debug\net6.0\ChampionsLeagueDraw.deps.json
+C:\Users\khali\source\repos\ChampionsLeagueDraw\bin\Debug\net6.0\ChampionsLeagueDraw.runtimeconfig.json
+C:\Users\khali\source\repos\ChampionsLeagueDraw\bin\Debug\net6.0\ChampionsLeagueDraw.dll
+C:\Users\khali\source\repos\ChampionsLeagueDraw\bin\Debug\net6.0\ChampionsLeagueDraw.pdb
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.AssemblyInfoInputs.cache
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.AssemblyInfo.cs
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.dll
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\refint\ChampionsLeagueDraw.dll
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.pdb
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ChampionsLeagueDraw.genruntimeconfig.cache
+C:\Users\khali\source\repos\ChampionsLeagueDraw\obj\Debug\net6.0\ref\ChampionsLeagueDraw.dll
